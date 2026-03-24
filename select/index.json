@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "帰ろう",
+  "base_artist": "never young beach",
+  "createdAt": "2026-03-24T15:57:15.541344Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "帰ろう",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_帰ろう_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "帰ろう レッツゴー!",
+      "artist": "つばきファクトリー",
+      "has_synced": false,
+      "path": "select/02_帰ろう_レッツゴー!_つばきファクトリー.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "帰ろう",
+      "artist": "藤井風",
+      "has_synced": true,
+      "path": "select/03_帰ろう_藤井風.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "帰ろう",
+      "artist": "Fujii Kaze (藤井風)",
+      "has_synced": true,
+      "path": "select/04_帰ろう_Fujii_Kaze_(藤井風).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "帰ろう - Kaerou",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/05_帰ろう_-_Kaerou_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kaerou 「帰ろう」",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/06_Kaerou_「帰ろう」_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "帰ろう",
+      "artist": "never young beach",
+      "has_synced": false,
+      "path": "select/pl_01_帰ろう_never_young_beach.txt"
+    }
+  ]
+}
